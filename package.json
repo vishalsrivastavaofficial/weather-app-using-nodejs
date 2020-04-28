@@ -1,0 +1,22 @@
+{
+  "name": "weather-app-using-nodejs",
+  "version": "1.0.0",
+  "description": "This is the weather application using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsrivastavaofficial/weather-app-using-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsrivastavaofficial/weather-app-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/vishalsrivastavaofficial/weather-app-using-nodejs#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
